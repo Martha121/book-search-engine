@@ -11,7 +11,7 @@ import Navbar from './components/Navbar';
 
 // Establish connection to the bac-end sever's endpoint.
 const client = new ApolloClient({
-  uri: "http://localhost:3001/graphql",
+  uri: "/graphql",
 });
 
 function App() {
