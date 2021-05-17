@@ -11,8 +11,8 @@
 
   ## Images
 
-  ![main page](./client/public/assets/images/book-search1.jpg)
-  ![books page](./client/public/assets/images/book-search2.jpg)
-  ![books saved](./client/public/assets/images/book-search3.jpg)
+  ![main page](./client/public/assets/images/booksearch1.JPG)
+  ![books page](./client/public/assets/images/booksearch2.JPG)
+  ![books saved](./client/public/assets/images/booksearch3.JPG)
   
   
